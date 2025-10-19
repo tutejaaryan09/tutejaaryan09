@@ -1,5 +1,5 @@
 ## Hello, I'm Aryan 👋
-[<img src="https://komarev.com/ghpvc/?username=tutejaaryan&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/tutejaaryan)
+[<img src="https://komarev.com/ghpvc/?username=tutejaaryan09&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/tutejaaryan)
 
 <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" alt="Code GIF" width="350" align="right">
 
@@ -78,12 +78,12 @@
 
 ---
 ### Stats:
-<img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tutejaaryan&show_icons=true&count_private=true&theme=tokyonight" />
+<img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tutejaaryan09&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 ### Language stats:
 
-<img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutejaaryan&layout=compact&theme=tokyonight&hide"/>
+<img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutejaaryan09&layout=compact&theme=tokyonight&hide"/>
 
 ---
 
