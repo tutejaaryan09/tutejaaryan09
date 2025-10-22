@@ -83,7 +83,7 @@
 
 ### Language stats:
 
-<img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutejaaryan09&layout=compact&theme=tokyonight&hide"/>
+<img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutejaaryan09&layout=compact&theme=tokyonight"/>
 
 ---
 
