@@ -20,28 +20,12 @@
 
 #### Programming Languages:
 
-<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
-
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<br/>
-
-
-#### Markup Languages:
-
-<img align="left" alt="HTML" width="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png">
-
-<img align="left" alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
-
+<img align="left" alt="C++" width="30px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <br/>
 
 #### Tools:
-
-<img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
 <img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
